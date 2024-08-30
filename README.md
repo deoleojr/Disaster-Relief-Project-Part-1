@@ -5,7 +5,7 @@ Disaster Relief Project: Part 1
 DS-6030
 
 ## Authors
-- Emmanuel Leonce 
+- Emmanuel Leonce & group members
 
 ## License
 MIT License
